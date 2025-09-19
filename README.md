@@ -24,7 +24,12 @@ Insights: highlighted the most affected industries and regions.
 
 ---
 📈 Sample Insights
+
 Tech companies contributed the highest percentage of layoffs during 2022–2023.
 Startups in funding crunches were among the most impacted.
 USA and India were the most affected regions by layoffs.
 Peak layoffs occurred around global economic slowdowns.
+
+---
+SQL Files
+-[layoffs SQL queries](https://github.com/yashika230/Global-Layoffs-SQL-Analysis/blob/main/layoffs.sql)
